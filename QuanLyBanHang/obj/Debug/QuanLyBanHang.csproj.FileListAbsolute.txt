@@ -1,0 +1,33 @@
+E:\TTNT\Project\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+E:\TTNT\Project\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+E:\TTNT\Project\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+E:\TTNT\Project\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+E:\TTNT\Project\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+E:\TTNT\Project\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+E:\TTNT\Project\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+E:\TTNT\Project\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+E:\TTNT\Project\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fTableManager.resources
+E:\TTNT\Project\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fDMChatLieu.resources
+E:\TTNT\Project\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fDMNhanVien.resources
+E:\TTNT\Project\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fDMHang.resources
+E:\TTNT\Project\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fDMKhachHang.resources
+E:\TTNT\Project\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fHoaDonBan.resources
+E:\TTNT\Project\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fTimHDBancs.resources
+E:\TTNT\Project\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+E:\thực tập nhận thức\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+E:\thực tập nhận thức\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+E:\thực tập nhận thức\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+E:\thực tập nhận thức\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+E:\thực tập nhận thức\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+E:\thực tập nhận thức\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fDMChatLieu.resources
+E:\thực tập nhận thức\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fDMHang.resources
+E:\thực tập nhận thức\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fDMKhachHang.resources
+E:\thực tập nhận thức\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fDMNhanVien.resources
+E:\thực tập nhận thức\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fHoaDonBan.resources
+E:\thực tập nhận thức\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fTableManager.resources
+E:\thực tập nhận thức\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fTimHDBancs.resources
+E:\thực tập nhận thức\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+E:\thực tập nhận thức\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+E:\thực tập nhận thức\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+E:\thực tập nhận thức\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+E:\thực tập nhận thức\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
